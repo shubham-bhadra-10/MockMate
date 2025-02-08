@@ -17,7 +17,7 @@ Your website will have the following features:
 ### **2. Technology Stack**
 - **Frontend**: React (with React Router for navigation, Axios for API calls)
 - **Backend**: Spring Boot (REST APIs, Spring Security for authentication)
-- **Database**: MySQL (for storing user data, interview slots, questions, etc.)
+- **Database**: PostrgesSQL (for storing user data, interview slots, questions, etc.)
 - **Compiler**: Use an existing compiler API (e.g., JDoodle, Judge0) or build a custom one.
 - **Deployment**: AWS, Heroku, or any cloud platform.
 
