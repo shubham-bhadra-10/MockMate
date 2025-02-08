@@ -24,7 +24,7 @@ Your website will have the following features:
 ---
 
 ### **3. Database Design**
-Here’s a basic schema for your MySQL database:
+Here’s a basic schema for your PostgresSQL database:
 
 #### **Tables**
 1. **Users**
